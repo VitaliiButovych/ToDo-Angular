@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+  @media screen and (max-width: 767px) {}
+
+h1, h2, h3 {
+    color: coral;
+}
+
+p {
+    color: chocolate;
+}
+
+ul {
+    display: block;
+}
+
+input {
+    margin: 10px;
+}
